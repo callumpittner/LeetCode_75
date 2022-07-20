@@ -1,3 +1,3 @@
 # leetcode_75
-Leetcode's 75 problem study plan
+Leetcode 75 study plan
 Personal Daily challenge: Tackle Leetcode and learn Git!
