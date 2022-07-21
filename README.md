@@ -1,2 +1,3 @@
 # leetcode_75
-Leetcode's 75 day study plan
+Leetcode 75 study plan
+Personal Daily challenge: Tackle Leetcode and learn Git!
